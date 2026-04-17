@@ -1,0 +1,4 @@
+materi sim pertemuan peertama:
+- kontrak kuliah
+- pendahuluan 
+- review mk basis data
